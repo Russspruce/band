@@ -13,16 +13,13 @@
 .sidebar {
   float: right;
   background-color: tan;
-  /*width: 30%;*/
+  border: 2px solid green;
+  padding: 5px;
+  margin: 20px;
   clear:right;
 }
 
-.img1, .img2 {
+.img1 {
   float:left;
-}
-
-.img2 {
-  position: relative;
-  /*top: 500px;*/
-  /*left: 0;*/
+  padding: 10px;
 }
